@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-https-server",
+  "version": "1.0.0",
+  "description": "A Node.js API serving index.html over HTTPS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
